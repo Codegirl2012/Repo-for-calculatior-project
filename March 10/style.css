@@ -1,0 +1,34 @@
+button {
+    background-color: red;
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 5px 5px rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 10px
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+h3{
+    color: rgb(255, 255, 255);
+}
+
+label{
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+body {
+    background-image: url('./images/IGCSE-Mathematics.webp'); /* Şəkilin yolu */
+    background-size: cover;  /* Şəkil ekranı tam örtəcək */
+    background-position: center; /* Şəkil mərkəzdə olacaq */
+    background-repeat: no-repeat;  /* Şəkil təkrarlanmayacaq */
+}
